@@ -27,5 +27,10 @@ namespace Hello
             this.textBox1.Text = string.Empty;
             this.button1.Text = "hello12312313131321131313";
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            this.textBox1.Text = "label click";
+        }
     }
 }
