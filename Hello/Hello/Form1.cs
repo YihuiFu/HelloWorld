@@ -16,5 +16,16 @@ namespace Hello
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.textBox1.Text = "hello world";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.textBox1.Text = string.Empty;
+            this.button1.Text = "hello";
+        }
     }
 }

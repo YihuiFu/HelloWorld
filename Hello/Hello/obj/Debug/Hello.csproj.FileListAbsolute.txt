@@ -6,3 +6,4 @@ G:\HelloWorld\Hello\Hello\obj\Debug\Hello.Properties.Resources.resources
 G:\HelloWorld\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.Cache
 G:\HelloWorld\Hello\Hello\obj\Debug\Hello.exe
 G:\HelloWorld\Hello\Hello\obj\Debug\Hello.pdb
+G:\HelloWorld\Hello\Hello\obj\Debug\Hello.Form1.resources
