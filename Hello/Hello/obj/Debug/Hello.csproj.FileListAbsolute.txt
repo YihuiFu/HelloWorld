@@ -1,0 +1,8 @@
+G:\HelloWorld\Hello\Hello\bin\Debug\Hello.exe.config
+G:\HelloWorld\Hello\Hello\bin\Debug\Hello.exe
+G:\HelloWorld\Hello\Hello\bin\Debug\Hello.pdb
+G:\HelloWorld\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+G:\HelloWorld\Hello\Hello\obj\Debug\Hello.Properties.Resources.resources
+G:\HelloWorld\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.Cache
+G:\HelloWorld\Hello\Hello\obj\Debug\Hello.exe
+G:\HelloWorld\Hello\Hello\obj\Debug\Hello.pdb
